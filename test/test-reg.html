@@ -30,6 +30,22 @@
 ]}
 </script>
 
+<h2>autoLanes off</h2>
+<script type="WaveDrom">
+{reg: [
+  {name: 'INSTRUCTION_POINTER_REGISTER', bits: 4},
+  {name: 'STACK_POINTER', bits: 4}
+], config: {hspace: 640, lanes: 1}}
+</script>
+
+<h2>autoLanes on</h2>
+<script type="WaveDrom">
+{reg: [
+  {name: 'INSTRUCTION_POINTER_REGISTER', bits: 4},
+  {name: 'STACK_POINTER', bits: 4}
+], config: {hspace: 640, lanes: 1, autoLanes: true}}
+</script>
+
 </div>
 
 <script>(function(){ window.addEventListener("load", WaveDrom.ProcessAll, false); })();</script>
