@@ -1,9 +1,15 @@
 node_modules
 .nyc_output
 coverage
+test/out
 npm-debug.log
 package-lock.json
+bun.lock
 build
+dist
+docs
+editor
+wavedrom
 wavedrom.js
 wavedrom.min.js
 wavedrom.unpkg.js
