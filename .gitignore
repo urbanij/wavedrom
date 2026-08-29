@@ -4,7 +4,6 @@ coverage
 test/out
 npm-debug.log
 package-lock.json
-bun.lock
 build
 dist
 docs
