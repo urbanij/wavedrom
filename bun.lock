@@ -5,7 +5,7 @@
     "": {
       "name": "wavedrom",
       "dependencies": {
-        "bit-field": "git+https://github.com/urbanij/bitfield.git#feat/expand-lanes",
+        "bit-field": "git+https://github.com/urbanij/bitfield.git#furbani/dev",
         "json5": "^2.2.3",
         "logidrom": "^0.3.1",
         "onml": "^2.1.0",
@@ -189,7 +189,7 @@
 
     "baseline-browser-mapping": ["baseline-browser-mapping@2.11.20", "", { "bin": { "baseline-browser-mapping": "dist/cli.cjs" } }, "sha512-H0ulySigv6icDJ1F7SjtdCD6PrhTpdYCmP0CactWy1+ekh0AFd0o1Wn5T8b+hnTmdBx19u9yhL6wvCylXMY7zw=="],
 
-    "bit-field": ["bit-field@github:urbanij/bitfield#20ad3d5", { "dependencies": { "fs-extra": "^11.2.0", "onml": "^2.1.0", "tspan": "^0.4.0", "yargs": "^17.7.2" }, "bin": { "bitfield": "./bin/bitfield.js" } }, "urbanij-bitfield-20ad3d5", "sha512-fBBtz0jPtQhJzteFT/Prk2BOzk4IT0I6V+TRPy+sSXF3nDoUWPuOwo+WmwE6T8N7WeypzL7VIOxr9plYbKeHzA=="],
+    "bit-field": ["bit-field@github:urbanij/bitfield#9c9db74", { "dependencies": { "fs-extra": "^11.2.0", "onml": "^2.1.0", "tspan": "^0.4.0", "yargs": "^17.7.2" }, "bin": { "bitfield": "./bin/bitfield.js" } }, "urbanij-bitfield-9c9db74", "sha512-pbmR/9qKP+m87zgi7xNSGybVMNJSEASTxp6FBiuSDSKK1dRQ1/QESVe8UwVaC7RLD8CSQHdCOOCEh1UGcG442w=="],
 
     "brace-expansion": ["brace-expansion@1.1.18", "", { "dependencies": { "balanced-match": "^1.0.0", "concat-map": "0.0.1" } }, "sha512-Edep/X9fGqVNmzKBVsDYIOtD+z1tuezV70LBjdCst9Tqu76lsnvRiZ6oTic1n+/BIwX6QDGAO94PN4N2SADvtw=="],
 

@@ -63,7 +63,7 @@
     "mocha": "12.0.0"
   },
   "dependencies": {
-    "bit-field": "git+https://github.com/urbanij/bitfield.git#feat/expand-lanes",
+    "bit-field": "git+https://github.com/urbanij/bitfield.git#furbani/dev",
     "json5": "^2.2.3",
     "logidrom": "^1.0.0",
     "onml": "^2.1.0",
